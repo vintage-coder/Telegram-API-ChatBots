@@ -1,18 +1,13 @@
-# This is the Insurance Claim Bot for Claiming car Accident `#f03c15`
+# This is the Insurance Claim Bot for Claiming car Accident
 
-
-## Requirements `#f03c15`
+## Requirements
 
 - Python-Telegram-Bot Wrapper--> For Creating Telegram Bot
 - Twilio Client              --> For Sending SMS Notification
 - Logging                    --> For Logging info of the code
 - random                     --> For creating random number
 
-
-
-
-
-## How to use Insurance Bot? `#f03c15`
+## How to use Insurance Bot?
 
 Insurance bot is the Insurance claiming service for claiming Accidents. The Bot simplifies the work
 By manual claiming by Human. The Bot is more interactive. Less time required to claim insurance for vehicle.
@@ -27,10 +22,10 @@ Provide the image of the vehicle.
 
 
 
-## How this Project Was Done? `#f03c15`
- - [] Installing the requirments above mentioned
- - [] Studying and Analysing the Docs provided by Telegram
- - [] Creating Telegram bot API using Bot Father
+## How this Project Was Done?
+ - [ ] Installing the requirments above mentioned
+ - [ ] Studying and Analysing the Docs provided by Telegram
+ - [x] Creating Telegram bot API using Bot Father
 
   This is the API token for Telegram bot `Updater(token='xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx')`
 
