@@ -1,0 +1,4 @@
+python3
+telegram (python-telegram-bot wrapper)
+OpenCV (image processing library)
+Logging 
